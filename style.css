@@ -2363,7 +2363,7 @@ footer {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 550px) {
   .hero_section {
     padding: 6rem 1rem; /* less padding on small screens */
     margin: 1rem auto; /* auto keeps it centered instead of fixed margins */
@@ -3203,7 +3203,7 @@ footer {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 350px) {
   .hero_section {
     margin: 5rem 1rem; /* reduce margins even more */
     margin-bottom: 6rem;
