@@ -3224,7 +3224,7 @@ footer {
   .hero_section h1 {
     margin: 0;
     padding: 0;
-    font-size: 1.2rem; /* shrink heading further */
+    font-size: 1.1rem; /* shrink heading further */
     text-align: center;
     margin-bottom: 0.5rem;
     word-wrap: break-word; /* old */
