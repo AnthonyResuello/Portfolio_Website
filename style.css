@@ -31,8 +31,7 @@ p {
   padding-left: 6rem;
   padding-right: 6rem;
   display: flex;
-  justify-content: center;
-  /* justify-items: center; */
+  justify-content: space-between;
 }
 
 .navbar img {
